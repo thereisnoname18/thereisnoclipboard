@@ -6,11 +6,9 @@ This app opens on start up. the following instructions will help you use the app
 
 How to run:
 
-1)Download the .zip file and extract it
+1)Run the multiclipboard_install.sh file (double click on it)
 
-2)Run the multiclipboard_install.sh file (double click on it)
-
-3)Reboot the computer to make sure that the app opens on startup
+2)Reboot the computer to make sure that the app opens on startup
 
 How to use:
 
