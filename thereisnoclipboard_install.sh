@@ -16,7 +16,7 @@ sudo chmod +x /usr/bin/thereisnoclipboard/thereisnoclipboard
 echo binary file installed
 sudo mv thereisnoclipboard_icon.png /usr/bin/thereisnoclipboard
 echo application icon installed
-cp thereisnoclipboard_application.desktop /usr/share/applications
+sudo cp thereisnoclipboard_application.desktop /usr/share/applications
 mv thereisnoclipboard_application.desktop $HOME/.local/share/applications
 echo application file installed
 mv thereisnoclipboard_autostart.desktop $HOME/.config/autostart
