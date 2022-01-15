@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=There Is No Clipboard
+Exec=sudo /usr/bin/thereisnoclipboard/thereisnoclipboard    
+Terminal=false
+StartupNotify=true
+Icon=/usr/bin/thereisnoclipboard/thereisnoclipboard_icon.png
