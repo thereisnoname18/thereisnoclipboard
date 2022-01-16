@@ -6,7 +6,7 @@ This app opens on start up. the following instructions will help you use the app
 
 How to run:
 
-1)Run the multiclipboard_install.sh file (run ./thereisnoclipboard_install.sh in the in the directory that contains this file)(do not run with sudo). 
+1)Run the multiclipboard_install.sh file (run chmod+x thereisnoclipboard_install.sh followed by ./thereisnoclipboard_install.sh in the in the directory that contains this file)(do not run with sudo). 
 
 2)Reboot the computer to make sure that the app opens on startup
 
