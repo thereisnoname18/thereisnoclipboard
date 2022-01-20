@@ -4,7 +4,7 @@ This app offers you to copy multiple texts in a different locations by pressing 
 
 This app opens on start up. the following instructions will help you use the app:
 
-How to run:
+How to install:
 
 1)Run the multiclipboard_install.sh file (run chmod+x thereisnoclipboard_install.sh followed by ./thereisnoclipboard_install.sh in the in the directory that contains this file)(do not run with sudo). 
 
@@ -16,7 +16,7 @@ How to use:
 
 2)Click on 'activate clipboard' to activate the clipboard.
 
-3)To copy or paste hold +,where is the value you entered for the hotkey and is any alphabet or number(DO NOT use default hotkeys like ctrl+c+q as the system will do the default function(i.e. ctrl+q, this will quit the tab)after copying). eg:ctrl+c+1 will copy your data in key <1> ctrl+p+1 will paste this data (while releasing keys, release p or c first and then release).
+3)To copy or paste, press and release ctrl+c(or v)+key,where key is the value you entered for the hotkey and is any alphabet or number(DO NOT use default hotkeys like ctrl+c+q as the system will do the default function(i.e. ctrl+q, this will quit the tab)after copying). eg:ctrl+c+1 will copy your data in key 1 ctrl+p+1 will paste this data (while releasing keys, release p or c first and then release).
 
 NOTES:
 
