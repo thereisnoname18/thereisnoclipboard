@@ -1,6 +1,6 @@
 # thereisnoclipboard
 Thereisnoclipboard is Clipboard manager that has a unique hotkey for each copied data
-This app offers you to copy multiple texts in a different locations by pressing ctrl+c+<key>, to store your value in that specific key. It also offers an option to add your own hotkey(eg. ctrl+m) for either copying or pasting. It shows the copied data with respect to the key and the current hotkeys for copying and pasting. A help button is provided for any further help.
+This app offers you to copy multiple texts in a different locations by pressing ctrl+c+key, to store your value in that specific key. It also offers an option to add your own hotkey(eg. ctrl+m) for either copying or pasting. It shows the copied data with respect to the key and the current hotkeys for copying and pasting. A help button is provided for any further help.
 
 This app opens on start up. the following instructions will help you use the app:
 
